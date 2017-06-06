@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "82567552501",
+    "firebase_url": "https://easyfilemanager-cbd16.firebaseio.com",
+    "project_id": "easyfilemanager-cbd16",
+    "storage_bucket": "easyfilemanager-cbd16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82567552501:android:9719eb764d6a6487",
+        "android_client_info": {
+          "package_name": "com.sanjay.easyfilemanager.underground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82567552501-ceo5g57jgst3921h3881b5m296to5021.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanjay.easyfilemanager.underground",
+            "certificate_hash": "778d7019a0fe553b56ba4b0cef1ca26c003fa86f"
+          }
+        },
+        {
+          "client_id": "82567552501-r2cb766pkq8958e3bq5e77ihqeqjeufh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDdVg76NiQiKc0NoC73W_bsWUEqqrW64A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82567552501-r2cb766pkq8958e3bq5e77ihqeqjeufh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82567552501:android:369f4af7589d6569",
+        "android_client_info": {
+          "package_name": "com.sanjay.easyfilemanager.pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82567552501-e1p6ek7j0d900avp7a76k2d24hbq67dq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanjay.easyfilemanager.pro",
+            "certificate_hash": "778d7019a0fe553b56ba4b0cef1ca26c003fa86f"
+          }
+        },
+        {
+          "client_id": "82567552501-r2cb766pkq8958e3bq5e77ihqeqjeufh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDdVg76NiQiKc0NoC73W_bsWUEqqrW64A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82567552501-r2cb766pkq8958e3bq5e77ihqeqjeufh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82567552501:android:0b0ba1cec467eb51",
+        "android_client_info": {
+          "package_name": "com.sanjay.easyfilemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82567552501-pvg3nl28j3ftr904s2kgck6levhp5hv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanjay.easyfilemanager",
+            "certificate_hash": "778d7019a0fe553b56ba4b0cef1ca26c003fa86f"
+          }
+        },
+        {
+          "client_id": "82567552501-r2cb766pkq8958e3bq5e77ihqeqjeufh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDdVg76NiQiKc0NoC73W_bsWUEqqrW64A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82567552501-r2cb766pkq8958e3bq5e77ihqeqjeufh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
